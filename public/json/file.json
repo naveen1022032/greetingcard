@@ -1,0 +1,544 @@
+[
+    {
+        "_id":"64c0b6cff4424c5a91833402",
+        "img":"http://numplateapi.nubiz.co.in/images//cardimage/Happy-Thanksgiving.png",
+        "data": {
+            "locked": false,
+            "layers": {
+                "c7a81f99-a1a0-4456-b0ad-3b018dadacea": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 150,
+                            "y": 700
+                        },
+                        "boxSize": {
+                            "width": 200,
+                            "height": 30,
+                            "x": 150,
+                            "y": 700
+                        },
+                        "rotate": 0,
+                        "text": "<p style=\"text-align: center;                      font-size: 20px;                      margin-bottom: 0;                      margin-top: 0;                      color: rgb(81, 44, 42);                      font-family: Oswald;\">Designed by</p>",
+                        "colors": [],
+                        "fontSizes": [],
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "style": "Bold",
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Bold.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "85f43db1-bdee-4180-9887-73bc1ccf91eb": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 150,
+                            "y": 730
+                        },
+                        "boxSize": {
+                            "width": 208,
+                            "height": 25,
+                            "x": 150,
+                            "y": 730
+                        },
+                        "rotate": 0,
+                        "text": "<p style=\"text-align: center;                      color: rgb(81, 44, 42);                      margin-bottom: 0;                      margin-top: 0;                      font-family: Oswald;\">https://www.greetingscards.com</p>",
+                        "colors": [],
+                        "fontSizes": [],
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "style": "Bold",
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Bold.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "746b7390-445f-41c5-97db-1ceaa089f0cc": {
+                    "type": {
+                        "resolvedName": "ImageLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 475,
+                            "y": 477
+                        },
+                        "boxSize": {
+                            "width": 512,
+                            "height": 352,
+                            "x": 475,
+                            "y": 477
+                        },
+                        "rotate": 0,
+                        "image": {
+                            "url": "https://i.ibb.co/7yVx0fd/family.png",
+                            "thumb": "https://i.ibb.co/7yVx0fd/family.png",
+                            "boxSize": {
+                                "width": 512,
+                                "height": 352
+                            },
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "rotate": 0
+                        }
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "da013986-ca20-4c6c-a318-2e5cd2ecd2fb": {
+                    "type": {
+                        "resolvedName": "ImageLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 475,
+                            "y": -15
+                        },
+                        "boxSize": {
+                            "width": 475,
+                            "height": 830,
+                            "x": 475,
+                            "y": -15
+                        },
+                        "rotate": 0,
+                        "image": {
+                            "url": "https://i.ibb.co/vD0Tnjq/background-card.png",
+                            "thumb": "https://i.ibb.co/vD0Tnjq/background-card.png",
+                            "boxSize": {
+                                "width": 475,
+                                "height": 830
+                            },
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "rotate": 0
+                        }
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "137b168a-821d-4890-9766-4a282ab36dd3": {
+                    "type": {
+                        "resolvedName": "ImageLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 475,
+                            "y": 0
+                        },
+                        "boxSize": {
+                            "width": 80,
+                            "height": 80,
+                            "x": 475,
+                            "y": 0
+                        },
+                        "rotate": 0,
+                        "image": {
+                            "url": "https://i.ibb.co/nBP7zBZ/Imagethank4.png",
+                            "thumb": "https://i.ibb.co/nBP7zBZ/Imagethank4.png",
+                            "boxSize": {
+                                "width": 80,
+                                "height": 80
+                            },
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "rotate": 0
+                        }
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "a4734d40-bd13-42ef-ab2c-05eb5255c293": {
+                    "type": {
+                        "resolvedName": "ImageLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 850,
+                            "y": 0
+                        },
+                        "boxSize": {
+                            "width": 100,
+                            "height": 151,
+                            "x": 850,
+                            "y": 0
+                        },
+                        "rotate": 0,
+                        "image": {
+                            "url": "https://i.ibb.co/Wcp1vsD/Imagethank5.png",
+                            "thumb": "https://i.ibb.co/Wcp1vsD/Imagethank5.png",
+                            "boxSize": {
+                                "width": 100,
+                                "height": 151
+                            },
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "rotate": 0
+                        }
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "e3fda0d3-70fa-4cb7-994f-a37b70021894": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 550,
+                            "y": 350
+                        },
+                        "boxSize": {
+                            "width": 400,
+                            "height": 80,
+                            "x": 550,
+                            "y": 350
+                        },
+                        "rotate": 0,
+                        "text": "<p style=\"color: #512c2a;                      font-style: italic;                      font-size: 18px;\">\"Wishing you a Thanksgiving filled with warmth, joy,and cherished moments.             Grateful for your presence in our lives. </p>",
+                        "colors": [],
+                        "fontSizes": [],
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "style": "Bold",
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Bold.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "7bda5cae-cc37-42bb-852f-1e9582a4b504": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 550,
+                            "y": 450
+                        },
+                        "boxSize": {
+                            "width": 400,
+                            "height": 80,
+                            "x": 550,
+                            "y": 450
+                        },
+                        "rotate": 0,
+                        "text": "<p style=\"color: #512c2a;                      font-style: italic;                      font-size: 18px;\">Happy Thanksgiving!\"</p>",
+                        "colors": [],
+                        "fontSizes": [],
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "style": "Bold",
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Bold.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "3261ef9f-bead-4027-b8bc-0e50e3e93755": {
+                    "type": {
+                        "resolvedName": "ImageLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 900,
+                            "y": 403
+                        },
+                        "boxSize": {
+                            "width": 50,
+                            "height": 92,
+                            "x": 900,
+                            "y": 403
+                        },
+                        "rotate": 0,
+                        "image": {
+                            "url": "https://i.ibb.co/7rV8pDF/Imagethank1.png",
+                            "thumb": "https://i.ibb.co/7rV8pDF/Imagethank1.png",
+                            "boxSize": {
+                                "width": 50,
+                                "height": 92
+                            },
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "rotate": 0
+                        }
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "fb29cdef-d9f0-41e6-8123-f0d23765c469": {
+                    "type": {
+                        "resolvedName": "ImageLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 475,
+                            "y": 553
+                        },
+                        "boxSize": {
+                            "width": 60,
+                            "height": 127,
+                            "x": 475,
+                            "y": 553
+                        },
+                        "rotate": 0,
+                        "image": {
+                            "url": "https://i.ibb.co/QFMx0LB/Imagethank3.png",
+                            "thumb": "https://i.ibb.co/QFMx0LB/Imagethank3.png",
+                            "boxSize": {
+                                "width": 60,
+                                "height": 127
+                            },
+                            "position": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "rotate": 0
+                        }
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "07bc9f62-fa77-420d-b1ab-873200bb344d": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 550,
+                            "y": 100
+                        },
+                        "boxSize": {
+                            "width": 237,
+                            "height": 68,
+                            "x": 550,
+                            "y": 100
+                        },
+                        "rotate": 0,
+                        "text": "<p style=\"                      font-size: 60px;                      color: rgb(162,155,77);                      margin-bottom: 0;                      margin-top: 0;                      font-weight: 500;                      font-style: italic;                      \">Happy</p>",
+                        "colors": [],
+                        "fontSizes": [],
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "style": "Bold",
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Bold.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "611d3e30-ed30-4183-87cc-849ffaaf15be": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 550,
+                            "y": 180
+                        },
+                        "boxSize": {
+                            "width": 237,
+                            "height": 68,
+                            "x": 550,
+                            "y": 180
+                        },
+                        "rotate": 0,
+                        "text": "<p style=\"font-size: 80px; color: rgb(232,108,106); margin-bottom: 0; font-style: italic; line-height: 0.7; margin-top: 0;\">             Thanks</p>",
+                        "colors": [],
+                        "fontSizes": [],
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "style": "Bold",
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Bold.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "a2cd3c6d-1570-4913-a8e7-c442c4241514": {
+                    "type": {
+                        "resolvedName": "TextLayer"
+                    },
+                    "props": {
+                        "position": {
+                            "x": 550,
+                            "y": 260
+                        },
+                        "boxSize": {
+                            "width": 237,
+                            "height": 68,
+                            "x": 550,
+                            "y": 260
+                        },
+                        "rotate": 0,
+                        "text": "<p style=\"font-size: 80px; color: rgb(232,108,106); margin-bottom: 0; font-style: italic; line-height: 0.9;margin-top: 0;\">          Giving</p>",
+                        "colors": [],
+                        "fontSizes": [],
+                        "fonts": [
+                            {
+                                "name": "Oswald",
+                                "fonts": [
+                                    {
+                                        "style": "Bold",
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Bold.woff2"
+                                        ]
+                                    },
+                                    {
+                                        "urls": [
+                                            "https://api-gilt-one.vercel.app/assets/liquid-editor/fonts/raw/master/src/fonts/Oswald/Oswald-Regular.woff2"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "locked": false,
+                    "child": [],
+                    "parent": "ROOT"
+                },
+                "ROOT": {
+                    "type": {
+                        "resolvedName": "RootLayer"
+                    },
+                    "props": {
+                        "color": "rgb(255, 255, 255)",
+                        "image": null,
+                        "rotate": 0,
+                        "boxSize": {
+                            "width": 950,
+                            "height": 790
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "locked": false,
+                    "child": [
+                        "c7a81f99-a1a0-4456-b0ad-3b018dadacea",
+                        "85f43db1-bdee-4180-9887-73bc1ccf91eb",
+                        "746b7390-445f-41c5-97db-1ceaa089f0cc",
+                        "da013986-ca20-4c6c-a318-2e5cd2ecd2fb",
+                        "137b168a-821d-4890-9766-4a282ab36dd3",
+                        "a4734d40-bd13-42ef-ab2c-05eb5255c293",
+                        "e3fda0d3-70fa-4cb7-994f-a37b70021894",
+                        "7bda5cae-cc37-42bb-852f-1e9582a4b504",
+                        "3261ef9f-bead-4027-b8bc-0e50e3e93755",
+                        "fb29cdef-d9f0-41e6-8123-f0d23765c469",
+                        "07bc9f62-fa77-420d-b1ab-873200bb344d",
+                        "611d3e30-ed30-4183-87cc-849ffaaf15be",
+                        "a2cd3c6d-1570-4913-a8e7-c442c4241514"
+                    ],
+                    "parent": null
+                }
+            }
+        }
+    }
+]
